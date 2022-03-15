@@ -8,11 +8,11 @@ Imports System.Runtime.InteropServices
 
 ' Vérifiez les valeurs des attributs de l'assembly
 
-<Assembly: AssemblyTitle("JeuDeLaVie")>
+<Assembly: AssemblyTitle("GameOfLife")>
 <Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("HP Inc.")>
-<Assembly: AssemblyProduct("JeuDeLaVie")>
-<Assembly: AssemblyCopyright("Copyright © HP Inc. 2019")>
+<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyProduct("GameOfLife")>
+<Assembly: AssemblyCopyright("")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
